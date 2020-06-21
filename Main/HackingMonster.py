@@ -5,9 +5,14 @@ import random
 
 from pygame.locals import *
 
+###
+
 Window_width = 800
 Window_height = 600
 White - (255, 255, 255)
+
+###
+
 
 if __name__ == "__main__":
     pygame.init()
